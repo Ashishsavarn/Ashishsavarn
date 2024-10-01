@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Savarn</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated and passionate Frontend Developer based in India, with a strong focus on creating dynamic and user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsavarn&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsavarn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishsavarn" alt="ashishsavarn" /></a> </p>
 
-- 🌱 I’m currently learning **data structure and algorithm**
+🌱 I am currently expanding my knowledge in data structures and algorithms to enhance my problem-solving skills and improve my programming proficiency.
+
 
 - 📫 How to reach me **ashishkumarsavarn@gmail.com**
 
