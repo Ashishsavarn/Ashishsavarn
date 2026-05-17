@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ashish Kumar Savarn 👋
 
-<!--
-**Ashishsavarn/Ashishsavarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer • Full Stack Developer • Backend-Focused Developer
 
-Here are some ideas to get you started:
+I build scalable AI-powered applications, modern web experiences, and intelligent backend systems using modern full-stack technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* React
+* Next.js
+* Python
+* JavaScript
+* Tailwind CSS
+* Node.js
+* Framer Motion
+* Three.js
+* Drizzle ORM
+* MySQL
+
+## 🔥 Featured Projects
+
+* AI Mock Interview Platform
+* DSA Analyzer with Groq AI
+* Futuristic Developer Portfolio
+* Weather Application
+* Tic-Tac-Toe AI Game
+
+## 🌱 Currently Learning
+
+* Advanced Backend Systems
+* AI Integrations
+* System Design
+* Cloud Deployment
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/ashish-kumar-savarn-966894267
